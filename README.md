@@ -1,6 +1,6 @@
 <h1>Alura Plus</h1>
 🔗 Link do projeto
-Alura Plus - Página Recriada
+https://alura-plus-9j6b2n52c-taislaine-massucatos-projects.vercel.app/
 
 🖥️ Recriando uma Página com CSS Grid e Flexbox
 Este projeto faz parte do desafio da formação de Front-End da Alura, onde o objetivo foi reproduzir uma página utilizando um design disponibilizado no Figma.
