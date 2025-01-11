@@ -154,3 +154,8 @@ h1{
     background-color: var(--botao-azul-efeito);
     color: var(--cor-de-fundo);
 }
+
+.dispositivos__lista img:hover{
+    background-color: #1242cfa8;
+    border-radius: 2em;
+}
