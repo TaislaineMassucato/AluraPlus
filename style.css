@@ -79,8 +79,10 @@ h1{
 .descricao__texto{
     color: var(--cinza-secundario);
 }
-.terciario{
-    flex-direction: row-reverse;
-    align-items: center;
-    margin: 0 10em;
+.secundaria__botao{
+    display: inline-block;
+    margin-top: 1em;
+}
+.container__descricao{
+    padding:2em ;
 }
